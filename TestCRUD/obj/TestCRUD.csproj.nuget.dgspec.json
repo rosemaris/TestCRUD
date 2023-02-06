@@ -10,7 +10,7 @@
         "projectUniqueName": "D:\\Maris\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
         "projectName": "TestCRUD",
         "projectPath": "D:\\Maris\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
-        "packagesPath": "C:\\Users\\NONON\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Maris\\.nuget\\packages\\",
         "outputPath": "D:\\Maris\\TestCRUD\\TestCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\NONON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

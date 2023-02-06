@@ -264,7 +264,6 @@
       "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
@@ -280,7 +279,6 @@
       "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
@@ -296,7 +294,6 @@
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
@@ -527,7 +524,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\NONON\\.nuget\\packages\\": {},
+    "C:\\Users\\Maris\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
@@ -538,7 +535,7 @@
       "projectUniqueName": "D:\\Maris\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
       "projectName": "TestCRUD",
       "projectPath": "D:\\Maris\\TestCRUD\\TestCRUD\\TestCRUD.csproj",
-      "packagesPath": "C:\\Users\\NONON\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Maris\\.nuget\\packages\\",
       "outputPath": "D:\\Maris\\TestCRUD\\TestCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -547,7 +544,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\NONON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
